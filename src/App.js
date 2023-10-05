@@ -1,5 +1,6 @@
 import { DynamicContextProvider, DynamicWidget } from "@dynamic-labs/sdk-react";
 import { DynamicWagmiConnector } from "@dynamic-labs/wagmi-connector";
+import Home from "./Home";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
     >
       <DynamicWagmiConnector>
         <DynamicWidget />
+        <Home />
       </DynamicWagmiConnector>
     </DynamicContextProvider>
   );
