@@ -9,7 +9,7 @@
     "@dynamic-labs/ethereum": "^0.19.0",
     "@dynamic-labs/ethers-v5": "^0.19.0",
     "@dynamic-labs/flow": "^0.19.0",
-    "@dynamic-labs/magic": "^0.19.0",
+    "@dynamic-labs/magic": "^1.0.0",
     "@dynamic-labs/sdk-react-core": "^0.19.0",
     "@dynamic-labs/solana": "^0.19.0",
     "@dynamic-labs/starknet": "^0.19.0",
